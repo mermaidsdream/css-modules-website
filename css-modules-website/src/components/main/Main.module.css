@@ -1,0 +1,41 @@
+.main {
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0px auto;
+  padding: 45px;
+}
+  
+img {
+  max-width: 100%;
+}
+
+.content {
+  background: #e5e5e5;
+}
+
+.title {
+  color: #818181;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 22px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  margin: 30px auto;
+}
+
+.contacts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

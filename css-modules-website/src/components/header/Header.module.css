@@ -1,0 +1,74 @@
+.header {
+  height: 3rem;
+  background: #0A0043;
+  max-width: 100%;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0px auto;
+  padding: 10px;
+}
+
+.contacts {
+  max-width: 90%;
+  margin: 0px auto;
+  gap: 2rem;
+  display: flex;
+  justify-content: flex-start;
+}
+  
+.social {
+  max-width: 90%;
+  margin-top: -20px;
+  gap: 2rem;
+  display: flex;
+  justify-content: flex-end;
+}
+  
+.navbar {
+  color: #000;
+  background: #fff;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 11rem;
+}
+ 
+.logo {
+  margin-right: 25%;
+}
+
+.list {
+  display: inline-flex;
+  gap: 3rem;
+  list-style-type: none;
+  margin-right: 12rem;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: right;
+  color: #000000;
+}
+  
+.item a {
+  text-decoration: none;
+}
+
+.button {
+  border: none;
+  background: #fff;
+  padding-right: 0.5rem;
+  padding-left: 0.5rem;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 17px;
+  text-align: center;
+  color: #000;
+}
+  
+.element {
+  padding-left: 0.5rem;
+}
